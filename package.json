@@ -1,7 +1,7 @@
 {
   "name": "fullstack-graphql-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fullstack GraphQL app using Apollo Server and React.js",
   "type": "module",
   "scripts": {
     "server": "node api/src/server.js"
